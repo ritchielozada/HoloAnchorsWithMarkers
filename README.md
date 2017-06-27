@@ -1,4 +1,4 @@
-#HoloAnchorsWithMarkers
+# HoloAnchorsWithMarkers
 
 This Unity Project requires HoloToolkit and Vuforia SDK.
 HoloToolkit v1.5.7.0 package is included in the project.
@@ -10,7 +10,7 @@ the required configuration and script with references/dependencies
 on the SDK.  Please the Vuforia Unity SDK Package before using this
 project.
 
-##Setup
+## Setup
 
 * Install Unity (http://unity3d.com)
 * Sign-up / Log-in to the Vuforia Developer Portal
